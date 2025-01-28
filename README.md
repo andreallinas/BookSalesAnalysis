@@ -1,6 +1,6 @@
 <h1>Book Sales Analysis - Ongoing</h1>
 
-<h2>Description</h2>
+## Description
 This project consists of a Python script that analyses different aspects of book sales demographics.
 <br />
 
