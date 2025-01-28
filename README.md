@@ -19,8 +19,9 @@ This project consists of a Python script that analyses different aspects of book
 - [Conclusion](#conclusion)
 
 ## Asking Questions
-
-Content for the "Asking Questions" section.
+- Which titles/genres bring in the most revenue?
+- What is the relationship between sale price and units sold or gross sales
+- Does author ratings correlate with gross sales or units sold?
 
 ## Analysis
 
@@ -31,6 +32,4 @@ Content for the "Analysis" section.
 Content for the "Conclusion" section.
 
 
-  Which titles/genres bring in the most revenue?
-  What is the relationship between sale price and units sold or gross sales
-  Does author ratings correlate with gross sales or units sold?
+
