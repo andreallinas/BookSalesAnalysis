@@ -16,4 +16,26 @@ This project consists of a Python script that analyses different aspects of book
 
 - <b>Asking Questions</b> 
 - <b>Analysis</b> 
-- <b>Conclusion</b> 
+- <b>Conclusion</b>
+# Table of Contents
+
+- [Asking Questions](#asking-questions)
+- [Analysis](#analysis)
+- [Conclusion](#conclusion)
+
+## Asking Questions
+
+Content for the "Asking Questions" section.
+
+## Analysis
+
+Content for the "Analysis" section.
+
+## Conclusion
+
+Content for the "Conclusion" section.
+
+
+  Which titles/genres bring in the most revenue?
+  What is the relationship between sale price and units sold or gross sales
+  Does author ratings correlate with gross sales or units sold?
