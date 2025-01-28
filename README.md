@@ -5,14 +5,14 @@ This project consists of a Python script that analyses different aspects of book
 <br />
 
 
-<h2>Languages and Libraries Used</h2>
+## Languages and Libraries Used
 
 - <b>Python:</b> 
    - Pandas</b>
    - Numpy</b>
    - Matplotlib</b>
 
-<h2>The Process</h2>
+## The Process
 
 - [Asking Questions](#asking-questions)
 - [Analysis](#analysis)
