@@ -13,6 +13,7 @@ This project consists of a Python script that analyses different aspects of book
    - Matplotlib</b>
 
 <h2>The Process</h2>
+
 - <b>Asking Questions</b> 
 - <b>Analysis</b> 
 - <b>Conclusion</b> 
